@@ -1,0 +1,24 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "globals": {
+    "describe": true,
+    "it": true,
+    "before": true,
+    "after": true,
+    "firebase": true,
+    "addTask": true,
+    "getTaskList": true,
+    "taskProgress": true
+  },
+  "rules": {
+    "prefer-destructuring": "off",
+    "object-shorthand": "off",
+    "no-console": ["error", {
+      "allow": ["info", "warn", "error"]
+    }]
+  }
+}

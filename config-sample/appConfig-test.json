@@ -1,0 +1,8 @@
+{
+  "apiKey": "...",
+  "authDomain": "laboratoria-testing-test.firebaseapp.com",
+  "databaseURL": "https://laboratoria-testing-test.firebaseio.com",
+  "projectId": "laboratoria-testing-test",
+  "storageBucket": "",
+  "messagingSenderId": "1234567899"
+}
