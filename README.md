@@ -3,7 +3,7 @@
 En este repo exponemos 2 alternativas a la hora de testear nuestro código con firebase
 
 - 1 - Usando un entorno de desarrollo: `npm test:stage`
-- 2 - Usando un mock para firebase: `npm test:mock`
+- 2 - Usando un [mock para firebase](https://github.com/soumak77/firebase-mock): `npm test:mock`
 
 Puedes ejecutar ambos escenarios con `npm test`.
 
